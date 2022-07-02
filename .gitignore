@@ -1,0 +1,12 @@
+/node_modules
+/.idea
+/dist/config/index.js
+.env
+.DS_Store
+npm-debug.log
+package-lock.json
+yarn.lock
+*.js.map
+*.js
+/dist
+/uploads
